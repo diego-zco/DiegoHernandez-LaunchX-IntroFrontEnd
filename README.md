@@ -7,5 +7,5 @@ Repo correspondiente a la práctica de abogabot.
 1. Requerimientos
 2. [Buyer persona](./Buyer_Persona_Abogabot.pdf)
 3. [Público objetivo](./Audiecia_Objetivo_Abogabot.pdf)
-4. Wireframe
+4. Wireframe [Mapa jpg](./AbogabotWireframe.jpg) [Pantallas pdf](./WireframePantallas.pdf)
 5. UI: [Login](./Login_Page.jpg)
